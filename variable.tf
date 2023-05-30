@@ -17,12 +17,12 @@ variable "rg_prefix" {
 
 variable "st_prefix" {
   type  = string
-  default = "st"
+  default = "st01"
 }
 
 variable "sb_prefix" {
   type  = string
-  default = "sb"
+  default = "sb01"
 }
 
 variable "env" {
